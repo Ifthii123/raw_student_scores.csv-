@@ -1,0 +1,6 @@
+name,math,science,english,average,grade,math_grade,science_grade,english_grade,min_score,max_score,score_range,pass_fail
+Alex,80,78,85,81.0,B,B,C,B,78,85,7,"Congratulations, you passed!"
+George,75,60,74,69.66666666666667,D,C,D,C,60,75,15,"Congratulations, you passed!"
+Ali,60,85,90,78.33333333333333,C,D,B,A,60,90,30,"Congratulations, you passed!"
+Simon,75,85,80,80.0,B,C,B,B,75,85,10,"Congratulations, you passed!"
+Jack,60,78,90,76.0,C,D,C,A,60,90,30,"Congratulations, you passed!"
